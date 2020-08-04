@@ -1,17 +1,17 @@
-frontend/node_modules
+node_modules
 /node_modules
 package-lock.json
 .env
 
 # dependencies
-frontend/.pnp
+.pnp
 .pnp.js
 
 # testing
-frontend/coverage
+coverage
 
 # production
-frontend/build
+build
 
 # misc
 .DS_Store
